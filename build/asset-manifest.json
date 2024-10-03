@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cv/biuld/static/css/main.3a701b4d.css",
+    "main.js": "/cv/biuld/static/js/main.434c843b.js",
+    "static/js/453.5333ad58.chunk.js": "/cv/biuld/static/js/453.5333ad58.chunk.js",
+    "index.html": "/cv/biuld/index.html",
+    "main.3a701b4d.css.map": "/cv/biuld/static/css/main.3a701b4d.css.map",
+    "main.434c843b.js.map": "/cv/biuld/static/js/main.434c843b.js.map",
+    "453.5333ad58.chunk.js.map": "/cv/biuld/static/js/453.5333ad58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a701b4d.css",
+    "static/js/main.434c843b.js"
+  ]
+}
