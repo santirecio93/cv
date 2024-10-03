@@ -4,7 +4,7 @@ export const DatosPersonales = (props) =>{
     return <div className="DatosPersonales">
         <div className='datos'>
             <div style={{display:"grid", placeItems:"center"}}>
-            <img src="/datos.png" alt=""/>
+            <img src="./datos.png" alt=""/>
             </div>
         <div>
         <h4 className="dato edad">Edad: {edad}</h4>
