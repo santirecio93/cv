@@ -1,0 +1,69 @@
+
+.cv{
+  display: flex;
+  
+  
+}
+.Header { 
+    background-color: #416790  ;
+    width: 40%;
+    display:flex;
+    flex-direction: column;
+    place-items:center;
+    align-items: center;
+    align-content: center;    
+}
+.Logo { 
+  display: grid;
+  place-items: center;
+  
+}
+.foto {
+  border-radius: 50%; 
+}
+.nombre{
+  color:#416790;
+  font-size: 50px;
+}
+.dato{
+  color: white;
+  text-decoration: none;
+}
+.datos{
+  display: flex;
+}
+.cuerpo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-color: antiquewhite;
+}
+.linea{
+  background-color: black;
+  height: 4px;
+  width: 90%;
+}
+.objetivoLaboral{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+
+}
+
+.experienciaLaboral{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  gap:5px;
+}
+.subDatosLaborales{
+  display: flex;
+  margin-top: 2px;
+}
+.puestoLaboral{
+  margin:0;
+}
