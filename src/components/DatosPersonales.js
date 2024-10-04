@@ -18,6 +18,9 @@ export const DatosPersonales = (props) =>{
         <h4>
         <a className='dato linkedin' href='https://www.linkedin.com/in/santiago-recio-59716392' target="_blank" ><img src="linkedin.png"/>{linkedin}</a>
         </h4>
+        <a style={{color:'white'}}href="./santiagorecio.pdf" download="SantiagoRecioCv.pdf">
+        Santiago Recio - Descargar PDF
+        </a>
         
     </div>
 }
