@@ -4,6 +4,9 @@
   
   
 }
+.botonera{
+  display:none;
+}
 .Header { 
     background-color: #416790  ;
     width: 40%;
@@ -20,6 +23,9 @@
 }
 .foto {
   border-radius: 50%; 
+}
+.foto2{
+  display: none;
 }
 .nombre{
   color:#416790;
@@ -66,4 +72,42 @@
 }
 .puestoLaboral{
   margin:0;
+}
+
+@media (max-width: 600px) {
+  .cv{
+    display: flex;
+    flex-direction: column;
+
+  }
+  .botonera{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+  }
+ .DatosPersonales{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+ }
+  .Header{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+  }
+  .Logo{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+  }
+  
+ 
+  
+  
 }

@@ -21,9 +21,9 @@ export const Cuerpo = (props) => {
             <Educacion estudio="Diplomatura en Python" institucion= "U.T.N" situacion= "Finalizado"/>
             <Educacion estudio="Desarrollador WEB en HTML y CSS" institucion= "CODER HOUSE" situacion= "Finalizado"/>
             <Educacion estudio="Curso en JAVASCRIPT y REACT " institucion= "CODER HOUSE" situacion= "Finalizado"/>
-            <Educacion estudio="Licenciatura en Ciencia de Datos" institucion=" Universidad de Buenos Aires" situacion=" 3 año"/>
-            <Educacion estudio="Licenciatura en Matematica Aplicada" institucion=" Universidad de Buenos Aires" situacion=" 2 año"/>
-            <Educacion estudio= "Contabilidad" institucion= "Universidad de Buenos Aires" situacion= "4 año - Abandonado"/>
+            <Educacion estudio="Licenciatura en Ciencia de Datos" institucion=" Universidad de Buenos Aires" situacion=" 3° Año"/>
+            <Educacion estudio="Licenciatura en Matematica Aplicada" institucion=" Universidad de Buenos Aires" situacion=" 2° Año"/>
+            <Educacion estudio= "Contabilidad" institucion= "Universidad de Buenos Aires" situacion= " Cursado hasta 4° Año"/>
             
         </div>
 }
