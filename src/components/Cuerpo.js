@@ -16,6 +16,7 @@ export const Cuerpo = (props) => {
             <ExperienciaLaboral empresa="Instituto de Cultura Argentina" puesto="Analista Contable y Administrativo" inicio="Marzo de 2016" fin="Febrero de 2019"/>
             <ExperienciaLaboral empresa="Colegio Nuestra Señora de la Misericordia" puesto="Preceptor" inicio="Marzo de 2019" fin="Diciembre de 2023"/>
             <ExperienciaLaboral empresa="Particular" puesto="Docente de Matematica" inicio="Febrero 2024" fin="Actualmente"/>
+            <ExperienciaLaboral empresa="INGACOT COMERCIAL S.A" puesto="Analista de datos BI - Junior " inicio="Octubre 2024" fin="Actualmente"/>
             <hr className='linea'/>
             <h1>FORMACIÓN</h1>
             <Educacion estudio="Diplomatura en Python" institucion= "U.T.N" situacion= "Finalizado"/>
